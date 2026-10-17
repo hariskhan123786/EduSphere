@@ -1,0 +1,40 @@
+{
+  "version": 1.1,
+  "atDirectives": [
+    {
+      "name": "@theme",
+      "description": "Tailwind CSS v4 — defines design tokens (colors, fonts, spacing) as CSS custom properties.",
+      "references": [{ "name": "Tailwind CSS Docs", "url": "https://tailwindcss.com/docs/theme" }]
+    },
+    {
+      "name": "@custom-variant",
+      "description": "Tailwind CSS v4 — defines custom variant selectors (e.g. `.dark &`).",
+      "references": [{ "name": "Tailwind CSS Docs", "url": "https://tailwindcss.com/docs/adding-custom-styles" }]
+    },
+    {
+      "name": "@utility",
+      "description": "Tailwind CSS v4 — registers a custom utility class.",
+      "references": [{ "name": "Tailwind CSS Docs", "url": "https://tailwindcss.com/docs/adding-custom-styles" }]
+    },
+    {
+      "name": "@variant",
+      "description": "Tailwind CSS v4 — applies a variant within a CSS block.",
+      "references": [{ "name": "Tailwind CSS Docs", "url": "https://tailwindcss.com/docs/adding-custom-styles" }]
+    },
+    {
+      "name": "@apply",
+      "description": "Tailwind CSS — applies utility classes inline in CSS.",
+      "references": [{ "name": "Tailwind CSS Docs", "url": "https://tailwindcss.com/docs/functions-and-directives#apply" }]
+    },
+    {
+      "name": "@layer",
+      "description": "Tailwind CSS — registers styles in a specific layer (base, components, utilities).",
+      "references": [{ "name": "Tailwind CSS Docs", "url": "https://tailwindcss.com/docs/functions-and-directives#layer" }]
+    },
+    {
+      "name": "@source",
+      "description": "Tailwind CSS v4 — declares a glob source path for class scanning.",
+      "references": [{ "name": "Tailwind CSS Docs", "url": "https://tailwindcss.com/docs/content-configuration" }]
+    }
+  ]
+}

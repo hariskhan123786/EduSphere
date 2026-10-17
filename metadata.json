@@ -1,0 +1,6 @@
+{
+  "name": "EduSaaS Enterprise",
+  "description": "Enterprise AI School Management System with Multi-Tenant ERP, LMS, and Gemini AI Assistant portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,3 @@
+﻿[build]
+target-dir = "C:/temp/tauri_build"
+jobs = 1
